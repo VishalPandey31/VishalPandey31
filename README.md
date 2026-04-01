@@ -27,14 +27,6 @@
 
 ---
 
-## 🛠️ Tech Stack (Serveum)
-- **Framework**: ReactJS
-- **Build Tool**: Vite
-- **3D Graphics**: Three.js (Hero Particles & Shapes)
-- **Interactivity**: Custom 3D Tilt Hook (Vanilla JS)
-- **Styling**: Vanilla CSS (Glassmorphism & Responsive Design)
-- **Deployment**: Surge
-
 ## 🧑‍💻 Author
 **Vishal Pandey**
 - [GitHub](https://github.com/VishalPandey31)
