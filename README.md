@@ -5,33 +5,40 @@
 
 ---
 
-### 🚀 My Projects & Live Previews  
+# 🚀 My Projects & Live Previews
 
-#### 🔴 Hard Projects
+### 🔴 Hard Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **Dev_Fusion** | Comprehensive AI-powered software engineering assistant. | [View Live](https://devfusion-v1.surge.sh/) |
+| **Dev_Fusion** | Comprehensive AI-powered software engineering assistant. | [View Live](https://dev-fusion.surge.sh/) |
+
+### 🟡 Intermediate Projects
+| Project Name | Description | Live Link |
+| :--- | :--- | :--- |
+| **ElectroMart** | Advanced IoT e-commerce platform with a professional UI. | [View Live](https://electromart.surge.sh/) |
+| **GeoNest** | Premium real estate platform with AI-powered property assistance. | [View Live](https://geonest.surge.sh/) |
+| **Serveum** | Premium digital agency portfolio with 3D Three.js backgrounds and interactive tilt effects. | [View Live](https://serveum.surge.sh/) |
+
+### 🟢 Easy Projects
+| Project Name | Description | Live Link |
+| :--- | :--- | :--- |
+| **BubbleWrap** | Fun interactive bubble wrap popping web app. | [View Live](https://bubblewrap.surge.sh/) |
+| **Snake Game** | Modern, premium Snake Game with smooth animations and persistent scoring. | [View Live](https://snake-game.surge.sh/) |
 
 ---
 
-#### 🟡 Intermediate Projects
-| Project Name | Description | Live Link |
-| :--- | :--- | :--- |
-| **ElectroMart** | Advanced IoT e-commerce platform with a professional UI. | [View Live](https://electromart-v1.surge.sh/) |
-| **GeoNest** | Premium real estate platform with AI-powered property assistance. | [View Live](https://geonest-v1.surge.sh/) |
+## 🛠️ Tech Stack (Serveum)
+- **Framework**: ReactJS
+- **Build Tool**: Vite
+- **3D Graphics**: Three.js (Hero Particles & Shapes)
+- **Interactivity**: Custom 3D Tilt Hook (Vanilla JS)
+- **Styling**: Vanilla CSS (Glassmorphism & Responsive Design)
+- **Deployment**: Surge
 
----
+## 🧑‍💻 Author
+**Vishal Pandey**
+- [GitHub](https://github.com/VishalPandey31)
+- [LinkedIn](#)
 
-#### 🟢 Easy Projects
-| Project Name | Description | Live Link |
-| :--- | :--- | :--- |
-| **BubbleWrap** | Fun interactive bubble wrap popping web app. | [View Live](https://bubble-wrap-v2.surge.sh/) |
-| **Snake Game** | Modern, premium Snake Game with smooth animations and persistent scoring. | [View Live](https://snake-game-pro-v1.surge.sh/) |
-
----
-
-## 👨‍💻 Author  
-**Vishal Pandey**  
-IT Student & Content Creator | 100K+ Subscribers on YouTube  
 
 [LinkedIn](https://www.linkedin.com/in/vishal-pandey/) | [YouTube](https://www.youtube.com/@uniquevlogs1m)
