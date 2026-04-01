@@ -15,6 +15,7 @@
 ### 🟡 Intermediate Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
+| **VaultIQ** | Premium finance intelligence dashboard with real-time analytics, glassmorphic UI, and role-based access. | [View Live](https://vaultiq-finance.surge.sh/) |
 | **ElectroMart** | Advanced IoT e-commerce platform with a professional UI. | [View Live](https://electromart.surge.sh/) |
 | **GeoNest** | Premium real estate platform with AI-powered property assistance. | [View Live](https://geonest.surge.sh/) |
 | **Serveum** | Premium digital agency portfolio with 3D Three.js backgrounds and interactive tilt effects. | [View Live](https://serveum.surge.sh/) |
@@ -25,7 +26,6 @@
 | **BubbleWrap** | Fun interactive bubble wrap popping web app. | [View Live](https://bubblewrap.surge.sh/) |
 | **Snake Game** | Modern, premium Snake Game with smooth animations and persistent scoring. | [View Live](https://snake-game.surge.sh/) |
 
----
 
 ## 🧑‍💻 Author
 **Vishal Pandey**
