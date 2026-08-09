@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal Pandey 👋
 
-- 💻 3nd-year IT student passionate about tech and coding.
+- 💻 3rd-year IT student passionate about tech and coding.
 - 🎥 Creator of engaging content with 100K+ subscribers on YouTube. Exploring innovative projects.
 
 ---
