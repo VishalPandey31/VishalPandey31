@@ -10,9 +10,11 @@
 ### 🔴 Hard Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
+| **TaskManager** | Full-stack task & project management platform featuring **Kanban Board** & **Collapsible Table views**, **Multi-project tracking**, **Nested subtasks**, **Priority & Label tagging**, **Real-time activity comments feed**, **Google OAuth 2.0 & Guest authentication**, **Light/Dark mode with 6 accent themes**, **PostgreSQL database via Prisma ORM**, and **NestJS RESTful APIs**. | [View Live](https://taskmanager-app.surge.sh/) \| [View Backend](https://taskmanager-aet6.onrender.com/api) \| [GitHub](https://github.com/VishalPandey31/TaskManager) |
 | **Dev_Fusion** | Comprehensive AI-powered software engineering assistant. | [View Live](https://dev-fusion.surge.sh/) |
 | **Backend_Transaction_Ledger** | Production-ready banking transaction backend featuring **JWT authentication**, **double-entry ledger architecture**, **MongoDB ACID transactions**, **idempotent transaction processing**, **secure REST APIs**, **Nodemailer email APIs**, **automated email notifications**, **account management**, and **session-based transaction handling**. **Backend only** — Tested using Postman. | [View Backend](https://backend-transaction-ledger.onrender.com) |
 | **Backend_Authentication_System** | Secure backend authentication system featuring **OTP email verification**, **Nodemailer integration**, **JWT authentication**, **REST APIs**, **password hashing (bcrypt)**, **login/signup**, **forgot & reset password**, **protected routes**, and **email-based OTP delivery**. **Backend only** — API testing via Postman. | [View Backend](https://backend-authentication-system-hdzh.onrender.com) |
+
 ### 🟡 Intermediate Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
