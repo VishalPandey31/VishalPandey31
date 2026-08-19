@@ -22,6 +22,8 @@
 | **ElectroMart** | Advanced IoT e-commerce platform with a professional UI. | [View Live](https://electromart.surge.sh/) |
 | **GeoNest** | Premium real estate platform with AI-powered property assistance. | [View Live](https://geonest.surge.sh/) |
 | **Serveum** | Premium digital agency portfolio with 3D Three.js backgrounds and interactive tilt effects. | [View Live](https://serveum.surge.sh/) |
+| **MAISON NOIR** | Luxury fashion brand landing page with animated hero, collections grid, scroll effects, and newsletter signup. | [View Live](https://maison-noir-fashion.vercel.app/) |
+
 
 ### 🟢 Easy Projects
 | Project Name | Description | Live Link |
